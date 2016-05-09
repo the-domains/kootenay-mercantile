@@ -1,28 +1,40 @@
-name: Kootenay Mercantile
 favicon: null
-layout_spectrum: 0.584340822417289
-typography_spectrum: 0.13513
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Kootenay Mercantile
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5385338112246245
+  brandStrength: 0
+  lightness: 0.09632810391485691
   brandColors:
     - '#441205'
     - '#ffffff'
     - '#2c5d7a'
     - '#ca9767'
     - '#77442a'
-  brandStrength: 0
-  lightness: 0.09632810391485691
-  saturation: 0.5385338112246245
   rhythmicContrast: 0.6943080560304224
-purpose: []
+typography_spectrum: 0.13513
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.584340822417289
+analytics:
+  twitter: null
+  google: null
+  facebook: null
