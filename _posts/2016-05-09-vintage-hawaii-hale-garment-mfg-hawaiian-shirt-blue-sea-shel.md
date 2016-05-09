@@ -6,14 +6,15 @@ isBasedOnUrl: 'http://www.ebay.ca/itm/Vintage-Hawaii-Hale-Garment-MFG-Hawaiian-S
 inLanguage: tl
 keywords: []
 description: 'Shipping and handling Item location: Cranbrook, BC, Canada Excludes: Africa, Middle East, Southeast Asia, Afghanistan, Armenia, Azerbaijan Republic, Bangladesh, Bhutan, China, Georgia, India, Kazakhstan, Kyrgyzstan, Maldives, Mongolia, Nepal, Pakistan, Russian Federation, Sri Lanka, Tajikistan, Turkmenistan, Uzbekistan, Western Samoa, Albania, Andorra, Croatia, Republic of, Cyprus, Czech Republic, Gibraltar, Guernsey, Jersey, Latvia, Lithuania, Malta, Moldova, Serbia, Slovakia, Slovenia, Svalbard and Jan Mayen, El Salvador, Haiti, Honduras, Nicaragua, Panama, Colombia'
-datePublished: '2016-05-09T02:36:11.525Z'
-dateModified: '2016-05-09T02:36:09.130Z'
+datePublished: '2016-05-09T02:42:29.579Z'
+dateModified: '2016-05-09T02:38:22.030Z'
 author:
   - name: Hotjazz1001
     url: ''
 related: []
 app_links: []
 title: Vintage Hawaii Hale Garment MFG Hawaiian Shirt Blue Sea Shells Cotton Barkcloth
+sourcePath: _posts/2016-05-09-vintage-hawaii-hale-garment-mfg-hawaiian-shirt-blue-sea-shel.md
 authors: []
 publisher:
   name: eBay
@@ -21,7 +22,6 @@ publisher:
   url: 'http://www.ebay.ca'
   favicon: 'http://www.ebay.ca/favicon.ico'
 starred: false
-sourcePath: _posts/2016-05-09-vintage-hawaii-hale-garment-mfg-hawaiian-shirt-blue-sea-shel.md
 _context: 'http://schema.org'
 _type: MediaObject
 
